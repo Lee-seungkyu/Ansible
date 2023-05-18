@@ -1,6 +1,2 @@
-- name: test
-  hosts: all
-  become: true
-  tasks:
-  - name: ping test
-    ping: 
+- name: tasks test
+  include_tasks: 1.yml
