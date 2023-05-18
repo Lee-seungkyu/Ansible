@@ -1,2 +1,2 @@
-[default]
-localhost   ansible_user=root
+[all]
+localhost
