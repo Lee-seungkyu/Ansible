@@ -1,5 +1,5 @@
 - name: test
-  hosts: all
+  hosts: localhost
   become: true
   tasks:
   - name: ping test
