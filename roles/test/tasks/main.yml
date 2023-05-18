@@ -1,4 +1,4 @@
 - name: tasks test
   include_tasks:
-  - 1.yml
-  - 2.yml
+   - 1.yml
+   - 2.yml
